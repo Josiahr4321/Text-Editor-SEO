@@ -92,7 +92,7 @@ Contributions to Text Editor SEO are welcome! If you'd like to contribute to thi
 
 For more information on contributing, please refer to the [CONTRIBUTING.md](CONTRIBUTING.md) file.
 
-##Images
+## Images
 ![image](https://github.com/Josiahr4321/Text-Editor-SEO/assets/125624166/605c7453-01b0-49bc-8e4f-e7ea0792963f)
 
 ##Links
